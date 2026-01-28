@@ -5,7 +5,7 @@
 :root {
 	/* Body */
 	--bg-color: #FDFAF3;
-	/*--bg-gradient: none;*/
+	/*--bg-gradient: coucou;*/
 	--bg-gradient: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
 
 	--font-family: "Poppins", sans-serif;
